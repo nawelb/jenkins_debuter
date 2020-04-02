@@ -1,11 +1,9 @@
 package testsUnitaires;
 
-import java.nio.charset.MalformedInputException;
-
 import org.junit.Assert;
 import org.junit.Test;
 
-public class test {
+public class TestUnitaires {
 
 	Addition addition = new Addition();
 
